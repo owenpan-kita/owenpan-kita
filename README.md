@@ -3,6 +3,6 @@
 
 ![Majors at Lehigh](owenpan-kita.github.io/majors.png)
 
-![Shopping in America](owenpan-kita.github.io/shoppinginamerica.png)
+![Shopping in America 2](owenpan-kita.github.io/shoppinginamerica2.png)
 
 [My LinkedIn](https://www.linkedin.com/in/owen-caroline-pan-kita-9571a9128 "My LinkedIn")   
