@@ -12,4 +12,6 @@
 
 ![Lehigh Trends](owenpan-kita.github.io/Trends_of_the_last_10_Years_of_Students_in_Lehigh_Arts_&_Science_Engineering_Business_chartbuilder.png)
 
+![Chanel Bags](owenpan-kita.github.io/Chanel_Bag_Price_Increases_since_2008_Chanel_Medium-Large_in_Caviar_Chanel_Reissue_2.55_266_Boy_Chanel_Medium_Flap_Bag_chartbuilder.png)
+
 [My LinkedIn](https://www.linkedin.com/in/owen-caroline-pan-kita-9571a9128 "My LinkedIn")   
