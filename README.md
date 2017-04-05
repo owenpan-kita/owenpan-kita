@@ -10,4 +10,6 @@
 
 ![Undergraduate Enrollment](owenpan-kita.github.io/Undergraduate_enrollment_Undergraduate_enrollment_chartbuilder.png)
 
+![Lehigh Trends](owenpan-kita.github.io/Trends_of_the_last_10_Years_of_Students_in_Lehigh_Arts_&_Science_Engineering_Business_chartbuilder.png)
+
 [My LinkedIn](https://www.linkedin.com/in/owen-caroline-pan-kita-9571a9128 "My LinkedIn")   
