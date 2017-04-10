@@ -10,6 +10,8 @@
 
 ![Undergraduate Enrollment](owenpan-kita.github.io/Undergraduate_enrollment_Undergraduate_enrollment_chartbuilder.png)
 
+![Bags](owenpan-kita.github.io/Top_10_Most_Expensive_Bags_in_the_World_Price_chartbuilder.png)
+
 ![Lehigh Trends](owenpan-kita.github.io/Trends_of_the_last_10_Years_of_Students_in_Lehigh_Arts_&_Science_Engineering_Business_chartbuilder.png)
 
 ![Chanel Bags](owenpan-kita.github.io/Chanel_Bag_Price_Increases_since_2008_Chanel_Medium-Large_in_Caviar_Chanel_Reissue_2.55_266_Boy_Chanel_Medium_Flap_Bag_chartbuilder.png)
