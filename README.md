@@ -29,4 +29,5 @@
 ## Comic Strip!
 
 ![college](owenpan-kita.github.io/Screen Shot 2017-04-26 at 3.49.10 PM.png)
+
 [My LinkedIn](https://www.linkedin.com/in/owen-caroline-pan-kita-9571a9128 "My LinkedIn")   
