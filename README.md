@@ -12,7 +12,7 @@ Hi everyone! My name is Owen Pan-Kita. I am a sophomore at Lehigh University, an
 ![Clothing Stores](owenpan-kita.github.io/02.14.2019.png)
 
 ## Timeline of Chanel
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QfKp1MOdoRBmw43Mj8FkqiAFsF8ZuQmvc_NVIsQbq7U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QfKp1MOdoRBmw43Mj8FkqiAFsF8ZuQmvc_NVIsQbq7U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='550' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## How Chanel Bags Price has Increased since 2008
 ![Chanel Bags](owenpan-kita.github.io/yay.png)
