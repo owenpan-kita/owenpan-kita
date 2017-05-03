@@ -1,15 +1,16 @@
 # Owen Pan-Kita
 ## Hi everyone! My name is Owen Pan-Kita. I am a sophomore at Lehigh University, and am studying Journalism and Marketing. I am originally from Summit, New Jersey, which is a small suburb right outside of Manhattan. After graudation, I hope to move into the city and work for a magazine. I enjoy reading, writing, shopping, and traveling.
 
-![Majors at Lehigh](owenpan-kita.github.io/majors.png)
-
+## The Best Clothing Companies in America
 ![Shopping in America 2](owenpan-kita.github.io/shoppinginamerica2.png)
 
 ## Timeline of Chanel
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QfKp1MOdoRBmw43Mj8FkqiAFsF8ZuQmvc_NVIsQbq7U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
+## The Price Difference Between the Most Expensive Bags in the World
 ![Bags](owenpan-kita.github.io/Top_10_Most_Expensive_Bags_in_the_World_Price_chartbuilder.png)
 
+## How Chanel Bags Price has Increased since 2008
 ![Chanel Bags](owenpan-kita.github.io/Chanel_Bag_Price_Increases_since_2008_Chanel_Medium-Large_in_Caviar_Chanel_Reissue_2.55_266_Boy_Chanel_Medium_Flap_Bag_chartbuilder.png)
 
 ## Premier Department Stores in NYC
