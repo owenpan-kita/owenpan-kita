@@ -8,7 +8,7 @@
 ![college](owenpan-kita.github.io/Screen Shot 2017-04-26 at 3.49.10 PM.png)
 
 ## The Best Clothing Companies in America
-![Shopping in America 2](owenpan-kita.github.io/shoppinginamerica2.png)
+![Clothing Stores](owenpan-kita.github.io/02.14.2019.png)
 
 ## Timeline of Chanel
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QfKp1MOdoRBmw43Mj8FkqiAFsF8ZuQmvc_NVIsQbq7U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
