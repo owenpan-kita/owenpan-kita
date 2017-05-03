@@ -15,7 +15,7 @@ Hi everyone! My name is Owen Pan-Kita. I am a sophomore at Lehigh University, an
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1QfKp1MOdoRBmw43Mj8FkqiAFsF8ZuQmvc_NVIsQbq7U&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## How Chanel Bags Price has Increased since 2008
-![Chanel Bags](owenpan-kita.github.io/Chanel_Bag_Price_Increases_since_2008_Chanel_Medium-Large_in_Caviar_Chanel_Reissue_2.55_266_Boy_Chanel_Medium_Flap_Bag_chartbuilder.png)
+![Chanel Bags](owenpan-kita.github.io/yay.png)
 
 ## Premier Department Stores in NYC
 <iframe width="800" height="550" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col5+from+1AudmrmeWQ7EZjb7r9TONr2YebVPYWfDzyo4efCKF&amp;viz=MAP&amp;h=false&amp;lat=40.75790535097049&amp;lng=-73.978317&amp;t=1&amp;z=15&amp;l=col5&amp;y=2&amp;tmplt=3&amp;hml=TWO_COL_LAT_LNG"></iframe>
